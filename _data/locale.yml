@@ -1,10 +1,12 @@
 NAV:
   HOME:
+    fr:      "Accueil"
     en:      "Home"
     zh:      "主页"
     zh-Hans: "主页"
     zh-Hant: "主頁"
   ALL:
+    fr:      "Archive"
     en:      "Archive"
     zh:      "归档"
     zh-Hans: "归档"
@@ -16,54 +18,63 @@ NAV:
     zh-Hant: "RSS"
 
 READMORE:
+  fr:      "Lire davantage"
   en:      "Read more"
   zh:      "阅读更多"
   zh-Hans: "阅读更多"
   zh-Hant: "閱讀更多"
 
 SEARCH:
+  fr:      "Rechercher"
   en:      "Search"
   zh:      "搜索"
   zh-Hans: "搜索"
   zh-Hant: "搜索"
 
 CANCEL:
+  fr:      "Annuler"
   en:      "Cancel"
   zh:      "取消"
   zh-Hans: "取消"
   zh-Hant: "取消"
 
 VIEWS:
+  fr:      "vues"
   en:      "views"
   zh:      "阅读"
   zh-Hans: "阅读"
   zh-Hant: "閱讀"
 
 LAST_UPDATED:
+  fr:      "Mis à jour pour la dernière fois"
   en:      "Last updated"
   zh:      "更新于"
   zh-Hans: "更新于"
   zh-Hant: "更新於"
 
 PREVIOUS:
+  fr:      "PRECEDENT"
   en:      "PREVIOUS"
   zh:      "上篇"
   zh-Hans: "上篇"
   zh-Hant: "上篇"
 
 NEXT:
+  fr:      "SUIVANT"
   en:      "NEXT"
   zh:      "下篇"
   zh-Hans: "下篇"
   zh-Hant: "下篇"
 
 ARTICLE_DATE_FORMAT:
+  fr:      "%d %b %Y"
   en:      "%b %d, %Y"
   zh:      "%Y年 %m月%d日"
   zh-Hans: "%Y年 %m月%d日"
   zh-Hant: "%Y年 %m月%d日"
 
 ARTICLE_LIST_DATE_FORMAT:
+  fr:      "%d %b"
   en:      "%b %d"
   zh:      "%m月%d日"
   zh-Hans: "%m月%d日"
@@ -76,24 +87,28 @@ STATISTICS:
   zh-Hant: "共計 [POST_COUNT] 篇文章，[PAGE_COUNT] 頁。"
 
 LICENSE_ANNOUNCE:
+  fr:      "Contenu sous licence [LICENSE]"
   en:      "This work is licensed under a [LICENSE] license."
   zh:      "本文遵守 [LICENSE] 许可协议。"
   zh-Hans: "本文遵守 [LICENSE] 许可协议。"
   zh-Hant: "本文遵守 [LICENSE] 許可協議。"
 
 POST_ON_GITHUB:
+  fr:      "Editer sur Github"
   en:      "Edit on Github"
   zh:      "在 Github 上修改"
   zh-Hans: "在 Github 上修改"
   zh-Hant: "在 Github 上修改"
 
 FOLLOW_ME:
+  fr:      "Mon [NAME]"
   en:      "Follow me on [NAME]."
   zh:      "在 [NAME] 上关注我。"
   zh-Hans: "在 [NAME] 上关注我。"
   zh-Hant: "在 [NAME] 上關注我。"
 
 EMAIL_ME:
+  fr:      "Mon Email INSA"
   en:      "Send me Email."
   zh:      "给我发邮件。"
   zh-Hans: "给我发邮件。"
